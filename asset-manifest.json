@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-homework-template/static/css/main.0d5b2924.css",
+    "main.js": "/react-homework-template/static/js/main.fd4cc0bd.js",
+    "static/js/175.0184f867.chunk.js": "/react-homework-template/static/js/175.0184f867.chunk.js",
+    "static/js/415.71aeb65c.chunk.js": "/react-homework-template/static/js/415.71aeb65c.chunk.js",
+    "static/js/199.a1a30e56.chunk.js": "/react-homework-template/static/js/199.a1a30e56.chunk.js",
+    "static/js/939.062f7c03.chunk.js": "/react-homework-template/static/js/939.062f7c03.chunk.js",
+    "static/js/651.ba9a0fbf.chunk.js": "/react-homework-template/static/js/651.ba9a0fbf.chunk.js",
+    "static/js/229.e0ac4365.chunk.js": "/react-homework-template/static/js/229.e0ac4365.chunk.js",
+    "static/js/681.991e431c.chunk.js": "/react-homework-template/static/js/681.991e431c.chunk.js",
+    "static/js/128.f09c285e.chunk.js": "/react-homework-template/static/js/128.f09c285e.chunk.js",
+    "index.html": "/react-homework-template/index.html",
+    "main.0d5b2924.css.map": "/react-homework-template/static/css/main.0d5b2924.css.map",
+    "main.fd4cc0bd.js.map": "/react-homework-template/static/js/main.fd4cc0bd.js.map",
+    "175.0184f867.chunk.js.map": "/react-homework-template/static/js/175.0184f867.chunk.js.map",
+    "415.71aeb65c.chunk.js.map": "/react-homework-template/static/js/415.71aeb65c.chunk.js.map",
+    "199.a1a30e56.chunk.js.map": "/react-homework-template/static/js/199.a1a30e56.chunk.js.map",
+    "939.062f7c03.chunk.js.map": "/react-homework-template/static/js/939.062f7c03.chunk.js.map",
+    "651.ba9a0fbf.chunk.js.map": "/react-homework-template/static/js/651.ba9a0fbf.chunk.js.map",
+    "229.e0ac4365.chunk.js.map": "/react-homework-template/static/js/229.e0ac4365.chunk.js.map",
+    "681.991e431c.chunk.js.map": "/react-homework-template/static/js/681.991e431c.chunk.js.map",
+    "128.f09c285e.chunk.js.map": "/react-homework-template/static/js/128.f09c285e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d5b2924.css",
+    "static/js/main.fd4cc0bd.js"
+  ]
+}
